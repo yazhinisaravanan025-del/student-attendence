@@ -1,0 +1,6 @@
+{
+  "name": "AttendEase - Student Attendance Management",
+  "description": "An intuitive, accessible Student Attendance Management System for teachers and administrators with quick touch-friendly marking, analytics, and AI-powered parent alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
